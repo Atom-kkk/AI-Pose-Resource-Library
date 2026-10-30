@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# 原图（900×1200 PNG，共约 640 MB）——不入库，本地镜像保留，需要时自行拉取或网盘分发
+img/
+
+# Python
+__pycache__/
+*.pyc
