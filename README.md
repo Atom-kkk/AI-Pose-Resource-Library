@@ -2,7 +2,7 @@
 
 > 288 组人体姿势、1439 张多角度参考图的**纯静态**画廊：零依赖、零构建，可本地离线运行，支持按体系、分类、视角筛选与一键下载原图。
 
-**原始图库：** [ai-pose-gallery.pages.dev](https://ai-pose-gallery.pages.dev/)（POSE Atlas） · **原作者：** ギア
+**在线体验：** [https://atom-kkk.github.io/AI-Pose-Resource-Library/](https://atom-kkk.github.io/AI-Pose-Resource-Library/) · **原始图库：** [ai-pose-gallery.pages.dev](https://ai-pose-gallery.pages.dev/)（POSE Atlas） · **原作者：** ギア
 
 ---
 
